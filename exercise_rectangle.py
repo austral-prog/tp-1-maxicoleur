@@ -8,3 +8,9 @@ def rectangle():
     """
     base = 10
     altura = 5
+
+    el_area=base*altura
+    el_perimetro=(2*base+2*altura)
+
+    print(el_area)
+    print(el_perimetro)
