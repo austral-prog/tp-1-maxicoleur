@@ -1,4 +1,4 @@
-ef statistics():
+def statistics():
     """
     Ejercicio 5 - Estadísticas Simples
 
